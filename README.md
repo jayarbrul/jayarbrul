@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👨‍💻 React Developer | Front-End Enthusiast
 
-<!--
-**jayarbrul/jayarbrul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a **skilled React Developer** with hands-on experience building **modern, responsive, and scalable web applications** using:
 
-Here are some ideas to get you started:
+- **React.js**
+- **Next.js**
+- **Redux Toolkit**
+- **Material UI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+I specialize in creating **clean, maintainable, and performant front-end solutions** that deliver **exceptional user experiences** while ensuring **scalability** and **performance**. My focus is on building applications that are both visually stunning and highly functional, ensuring a smooth and seamless experience for users.
+
+- ✅ **Responsive Design**: Crafting UI components that work seamlessly across all devices.
+- ✅ **State Management**: Using **Redux Toolkit** for scalable and efficient state management.
+- ✅ **Next.js**: Building full-stack applications with Next.js, leveraging SSR (Server-Side Rendering) and SSG (Static Site Generation).
+- ✅ **Component Libraries**: Integrating Material UI for elegant and consistent design systems.
+
+### 🔧 Technologies I Use
+
+- **Languages**: JavaScript (ES6+), TypeScript
+- **Frameworks & Libraries**: React.js, Next.js, Redux Toolkit, Material UI, Styled Components
+- **Version Control**: Git, GitHub
+- **Tools**: Webpack, Babel, ESLint, Prettier
+- **Deployment & Hosting**: Vercel, Netlify, AWS
+
+### 🔍 Current Focus
+- Improving performance optimization and React rendering patterns.
+- Learning and exploring **TypeScript** to write more robust and type-safe applications.
+- Contributing to open-source projects and learning from the community.
+
+  Thank you for visiting my GitHub! 🌟
