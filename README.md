@@ -1,4 +1,5 @@
-# 👨‍💻 React Developer | Front-End Enthusiast
+
+# 👨‍💻 React Developer | 📱 React Native Enthusias
 
 Welcome to my GitHub! I'm a **skilled React Developer** with hands-on experience building **modern, responsive, and scalable web applications** using:
 
@@ -18,6 +19,7 @@ I specialize in creating **clean, maintainable, and performant front-end solutio
 - ✅ **State Management**: Using **Redux Toolkit** for scalable and efficient state management.
 - ✅ **Next.js**: Building full-stack applications with Next.js, leveraging SSR (Server-Side Rendering) and SSG (Static Site Generation).
 - ✅ **Component Libraries**: Integrating Material UI for elegant and consistent design systems.
+- ✅ **Use Supabase**:  Integration Supabase with Database, Auth, Storage, Real-time and Edge function.
 
 ### 🔧 Technologies I Use
 
