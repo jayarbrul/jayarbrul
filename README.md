@@ -4,8 +4,12 @@ Welcome to my GitHub! I'm a **skilled React Developer** with hands-on experience
 
 - **React.js**
 - **Next.js**
+- **Angular.js**
+- **Vue.js**
 - **Redux Toolkit**
+- **Tailwind CSS**
 - **Material UI**
+- **Shadcn UI**
 
 ### 🚀 What I Do
 I specialize in creating **clean, maintainable, and performant front-end solutions** that deliver **exceptional user experiences** while ensuring **scalability** and **performance**. My focus is on building applications that are both visually stunning and highly functional, ensuring a smooth and seamless experience for users.
@@ -17,11 +21,12 @@ I specialize in creating **clean, maintainable, and performant front-end solutio
 
 ### 🔧 Technologies I Use
 
-- **Languages**: JavaScript (ES6+), TypeScript
-- **Frameworks & Libraries**: React.js, Next.js, Redux Toolkit, Material UI, Styled Components
+- **Languages**: JavaScript (ES6+), TypeScript, Python
+- **Frameworks & Libraries**: React.js, Next.js, Redux Toolkit, Material UI, Shadcn, Tailwind CSS, Styled Components
 - **Version Control**: Git, GitHub
 - **Tools**: Webpack, Babel, ESLint, Prettier
 - **Deployment & Hosting**: Vercel, Netlify, AWS
+- **Backend server**: Supabase
 
 ### 🔍 Current Focus
 - Improving performance optimization and React rendering patterns.
